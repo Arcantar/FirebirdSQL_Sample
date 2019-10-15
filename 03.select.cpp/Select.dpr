@@ -84,6 +84,7 @@ var
 	end;
 
 
+
 	blob := nil;
 	case ASQLCode of
 	SQL_TEXT     : begin

@@ -4,7 +4,6 @@
 {$MODE DELPHI}
 {$OBJECTCHECKS OFF}
 {$ENDIF}
-
 unit Firebird;
 
 interface
